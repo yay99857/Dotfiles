@@ -37,3 +37,4 @@ keymap("v", "<Tab>", ">gv", { desc = "Indent Selection (Visual mode)" })        
 keymap("v", "<S-Tab>", "<gv", { desc = "Unindent Selection (Visual mode)" })    -- Shift Tab
 
 -- Save File
+keymap("n", "<Space>w", ":w<CR>", { desc = "Save File", noremap = true })              -- Space w
