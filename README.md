@@ -1,2 +1,4 @@
 # My dotfiles
-This repository contains **all of my personal dotfiles**
+This repository contains **my dotfiles**
+
+Credits: https://github.com/ViegPhunt
